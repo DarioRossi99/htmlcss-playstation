@@ -17,9 +17,16 @@
 .img{
     width: 100%;
 }
+.card-accessori{
+    align-items: center;
+}
 
 .img-lens{
     width: 25px;
+}
+
+.accessori{
+    width: 7rem;
 }
 
 .container-sm a{
@@ -32,7 +39,7 @@ padding-right: 0.5rem;
 }
 
 .returnal{
-    width: 35%;
+    width: 50%;
 }
 
 .jumbo{
@@ -48,4 +55,11 @@ padding-right: 0.5rem;
 
 .col-4{
     width: 50%;
+}
+
+.ittaketwo{
+    padding-top: 15rem;
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-position: top center;
+    background-size: cover;
 }
