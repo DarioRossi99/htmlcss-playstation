@@ -1,0 +1,51 @@
+*{
+    border: 1px solid red;
+}
+
+.logo{
+    width: auto;
+    background-color: black;
+    padding: 0.5rem;
+    display: flex;
+}
+
+.logo .img-logo{
+    width: 60px;
+    margin-left: auto;
+}
+
+.img{
+    width: 100%;
+}
+
+.img-lens{
+    width: 25px;
+}
+
+.container-sm a{
+color: black;
+padding-right: 0.5rem;
+}
+
+.chevron{
+    width: 10px;
+}
+
+.returnal{
+    width: 35%;
+}
+
+.jumbo{
+    padding-top: 15rem;
+    background-image: url("../img/jumbo-bg.png");
+    background-position: top center;
+    background-size: cover;
+}
+
+.text-jumbo{
+    color: white;
+}
+
+.col-4{
+    width: 50%;
+}
