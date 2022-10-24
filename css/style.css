@@ -1,5 +1,4 @@
 *{
-
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -111,4 +110,30 @@ padding-right: 0.5rem;
     background-color: rgb(255, 255, 255);
     border: none;
     padding: 0.5rem;
+}
+
+.button-margin{
+    margin-bottom: 3rem;
+}
+
+.blu-bg{
+    background-color: rgb(0, 67, 156);
+}
+
+.region{
+    width: 5%;
+
+}
+
+.text-world{
+    color: white;
+    margin-top: 2rem;
+}
+
+.text-sony{
+    margin: 0;
+}
+
+.info-text{
+    margin-top: 1rem;
 }
