@@ -6,6 +6,9 @@
 .barra-menu{
     width: 100%;
     position: fixed;
+    z-index: 10;
+    top: 0;
+    left: 0;
 }
 
 .logo{
@@ -23,6 +26,11 @@
 .img{
     width: 100%;
 }
+
+.img-social{
+    width: 50%;
+}
+
 .card-accessori{
     text-align: center;
     align-items: center;
@@ -66,6 +74,11 @@ padding-right: 0.5rem;
     background-color: rgb(190, 188, 187);
 }
 
+.ps-now{
+    background-color: rgb(22, 28, 59);
+    margin-top: 7rem;
+}
+
 .text-jumbo{
     color: white;
 }
@@ -89,6 +102,13 @@ padding-right: 0.5rem;
     border-radius: 50px;
     background-color: lightgray;
     color: blue;
+    border: none;
+    padding: 0.5rem;
+}
+
+.now-button{
+    border-radius: 50px;
+    background-color: rgb(255, 255, 255);
     border: none;
     padding: 0.5rem;
 }
